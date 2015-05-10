@@ -1,1 +1,1 @@
-# Zon.SDK
+# Zon.Open.SDK
